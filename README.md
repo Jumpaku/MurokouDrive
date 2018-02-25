@@ -1,5 +1,7 @@
 # MurokouDrive
-Drive around Muroran-IT. A car action game
+Drive around Muroran-IT.
+
+This is a car action game.
 
 
 ## Dependencies
