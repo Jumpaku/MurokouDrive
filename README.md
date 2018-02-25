@@ -4,6 +4,10 @@ Drive around Muroran-IT.
 This is a car action game.
 
 
+
+## License
+MurokouDrive is licensed under the BSD 2-Clause License.
+
 ## Dependencies
 MurokouDrive depends on the following packages and some of them are licensed under the Apache License Version 2.0.
 
