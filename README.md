@@ -8,4 +8,4 @@ MurokouDrive depends on the following packages and some of them is licensed unde
 * Vehicle Tools (Unity Technology)
 * Down Town Pack - Lite (Gamemag Creation Studio)
 
-You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.
+You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0).
