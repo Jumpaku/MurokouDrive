@@ -5,7 +5,7 @@ This is a car action game.
 
 
 ## Dependencies
-MurokouDrive depends on the following packages and some of them is licensed under the Apache License Version 2.0.
+MurokouDrive depends on the following packages and some of them are licensed under the Apache License Version 2.0.
 
 * Vehicle Tools (Unity Technology)
 * Down Town Pack - Lite (Gamemag Creation Studio)
