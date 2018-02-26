@@ -91,3 +91,7 @@ $RECYCLE.BIN/
 # ignore Dependencies
 
 Assets/Dependencies/
+
+# ignore .app
+
+*.app

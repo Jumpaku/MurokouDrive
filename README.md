@@ -3,6 +3,8 @@ Drive around Muroran-IT.
 
 This is a car action game.
 
+## References
+See [Jumpaku's blog](http://jumpaku.hatenablog.com/entry/2018/02/26/131419).
 
 
 ## License
